@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.info {
+    font-weight: 300;
+    text-align: left;
+}
+h1 {
+    font-weight: 500;
+    font-size: 60px;
+}
+p {
+    font-weight: 500;
+    font-size: 20px;
+}
+span {
+    font-weight: 300;
+    padding-left: 252px;
+}
+.table {
+    font-weight: 500;
+    font-size: 20px;
+}

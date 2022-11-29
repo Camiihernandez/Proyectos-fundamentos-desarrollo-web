@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    background-color: #28a745;
+    margin: 0;
+}
+.navbar-brand img {
+    width: 86px;
+}
+.image-top {
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card-title {
+    font-size: 20px;
+    color: #212529;
+}
+.card-subtitle {
+    font-size: 16px;
+    color: #707070;
+}
+.card-text {
+    font-size: 13px;
+    color: #707070;
+}
+hr {
+    color: #707070A0;
+}
+.precio {
+    font-size: 16px;
+    color: #707070;
+    text-align: end;
+    margin: 0;
+}
+.sale {
+    font-size: 20px;
+    color: #28a745;
+}
+#contacto {
+    background-color: #28a745; 
+}
+#contacto h2 {
+    font-size: 21px;
+    font-weight: 500;
+    color: #ffffff;
+}
+#contacto input {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+.my-3 button {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+.logo img {
+    width: 90px;
+    padding: 10px;
+    text-align: center;
+}
+.footer {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+    padding: 10px;
+    text-align: center;
+}
